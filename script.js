@@ -11,10 +11,15 @@ document.addEventListener("DOMContentLoaded", function () {
     { title: "Case 9", img: "images/Case 9.jpg", desc: "Ryukyu (Okinawa) patterns found in Bingata and Kasuri" },
     { title: "Case 10", img: "images/Case 10.jpg", desc: "A pattern (Alpona / Rangoli) found in Sanatan culture" },
     { title: "Case 11", img: "images/Case 11.jpg", desc: "Some Mandala patterns" },
-    { title: "Case 12", img: "images/Case 12.jpg", desc: "A simple bottle" },
-    { title: "Case 13", img: "images/Case 13.jpg", desc: "A simple pot shape" },
-    { title: "Case 14", img: "images/Case 14.jpg", desc: "A flowerpot" },
-    { title: "Case 15", img: "images/Case 15.jpg", desc: "A toy boat and A simple glass" }
+    { title: "Case 12", img: "images/Case 12.jpg", desc: "Some Bagladeshi Textile Patterns" },
+    { title: "Case 13", img: "images/Case 13.jpg", desc: "A simple bottle" },
+    { title: "Case 14", img: "images/Case 14.jpg", desc: "A simple pot shape" },
+    { title: "Case 15", img: "images/Case 15.jpg", desc: "A flowerpot" },
+    { title: "Case 16", img: "images/Case 16.jpg", desc: "A toy boat" },
+    { title: "Case 17", img: "images/Case 17.jpg", desc: "A simple cup" },
+    { title: "Case 18", img: "images/Case 18.jpg", desc: "A vase" },
+    { title: "Case 19", img: "images/Case 19.jpg", desc: "A spur gear" },
+    { title: "Case 20", img: "images/Case 20.jpg", desc: "Evolution of Bangla Vowel Alphabets" }
     
   ];
 
